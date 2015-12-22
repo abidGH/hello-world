@@ -1,2 +1,4 @@
 # hello-world
-testing first repo
+------------------------
+This is test project. 
+testing first repository
